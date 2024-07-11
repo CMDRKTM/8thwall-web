@@ -398,7 +398,7 @@ function create() {
               XR8.stop()
               displayAndroidLinkOutView()
             }
-          }, 3000)
+          }, 20000)
         }
         showLoading()
         if (!previouslyGotCameraPermission) {
